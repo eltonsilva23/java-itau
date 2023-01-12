@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class Leitura {
+public class Questao1 {
   public static void main(String args[]) {
     Scanner teclado = new Scanner(System.in);
     int numero, r1, r2, r3;
